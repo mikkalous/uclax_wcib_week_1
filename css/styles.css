@@ -7,6 +7,11 @@ body {
   padding-right: 20px;
   padding-bottom: 0;
   padding-left: 20px; }
+  body span {
+    background: blue;
+    color: pink;
+    padding-left: 3px;
+    padding-right: 3px; }
   body h1 {
     color: #c8c8c8;
     margin-top: 10px;
@@ -29,4 +34,4 @@ body {
     body a:hover {
       color: #c8c8c8; }
   body img {
-    border-radius: 0px; }
+    border-radius: 200px; }
